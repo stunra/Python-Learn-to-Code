@@ -1,4 +1,4 @@
-#https://dmoj.ca/problem/wc15c2j1
+# https://dmoj.ca/problem/wc15c2j1
 
 how_far = (int(input()) - 1) * 'far, '
 

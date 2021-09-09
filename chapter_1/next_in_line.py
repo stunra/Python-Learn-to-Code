@@ -1,4 +1,4 @@
-#https://dmoj.ca/problem/ccc13j1
+# https://dmoj.ca/problem/ccc13j1
 
 youngest = int(input())
 middle = int(input())

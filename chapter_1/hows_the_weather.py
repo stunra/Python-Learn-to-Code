@@ -1,4 +1,4 @@
-#https://dmoj.ca/problem/wc17c1j2
+# https://dmoj.ca/problem/wc17c1j2
 
 celsius = int(input())
 

@@ -1,4 +1,4 @@
-#https://dmoj.ca/problem/wc18c3j1
+# https://dmoj.ca/problem/wc18c3j1
 
 paint = int(input())
 paint_per_cap = int(input())
