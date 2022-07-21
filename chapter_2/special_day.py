@@ -1,3 +1,5 @@
+# https://dmoj.ca/problem/ccc15j1
+
 month = int(input())
 day = int(input())
 

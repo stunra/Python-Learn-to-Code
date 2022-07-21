@@ -1,4 +1,4 @@
-# book
+# https://dmoj.ca/problem/dmopc14c5p1
 
 PI = 3.141592653589793
 

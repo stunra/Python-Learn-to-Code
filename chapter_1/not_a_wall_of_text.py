@@ -1,4 +1,4 @@
-# book
+# https://dmoj.ca/problem/dmopc15c7p2
 
 line = input()
 total_words = line.count(' ') + 1

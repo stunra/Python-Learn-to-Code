@@ -1,3 +1,5 @@
+# https://dmoj.ca/problem/ccc15j2
+
 happy = 0
 sad = 0
 

@@ -1,3 +1,5 @@
+# https://dmoj.ca/problem/dmopc16c1p0
+
 W = int(input())
 C = int(input())
 
